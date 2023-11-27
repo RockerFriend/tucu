@@ -12,3 +12,8 @@ const claveDesencripto = (arr: number[], clave: number[]): string => {
   }
   return palabraSecreta;
 };
+
+// Si estas desde el celu podes ir a este link a usar la funcion: https://www.typescriptlang.org/play
+// https://www.typescriptlang.org/play
+// https://www.typescriptlang.org/play
+// https://www.typescriptlang.org/play
