@@ -37,7 +37,7 @@ function App() {
   }, [timeLeft, showContent]);
 
   const [clicked, setClicked] = useState({ mate: false, ocho: false, miercoles: false });
-  const repoUrl = 'https://github.com/tu-repositorio';
+  const repoUrl = 'https://github.com/RockerFriend/tucu';
 
   const indicators = Object.values(clicked).map((isClicked, index) => (
     <div
